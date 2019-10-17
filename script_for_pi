@@ -1,0 +1,15 @@
+// ping on CMD //
+ping <enter current ip address>
+
+
+
+pi
+ejc
+cd ~
+git clone https://github.com/joAQUINCE/IDD-Fa19-Lab6
+cd IDD-Fa19-Lab6
+npm install
+node chatServer.js
+<enter current ip address>:8000
+
+
