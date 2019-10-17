@@ -4,7 +4,7 @@
 
 ## Description of the ChatBot
 
-**I created a HTML script and loaded it to business wubsite's server. Then, I linked the site to my business page on Instagram.**
+**I created a HTML script and loaded it to business website's server. Then, I linked the site to my business page on the Instagram App.**
 
 **The purpose of the Bot is to interactively verify that customers are providing a mobile number that is correct and able to send and receive text messages. This could be an actual solution to delivery issues where customers provide contact mobile numbers -for coordination of last-mile deliveries- that are invalid or cannot send and receive text messages.**
 
