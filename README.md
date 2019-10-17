@@ -1,6 +1,6 @@
 # ChatBot
 
-*Cell Phone Verification ChatBot. Implemented by Eduardo J. Castillo*
+*Cell Phone Verification ChatBot - Implemented by Eduardo J. Castillo*
 
 ## Description of the ChatBot
 
