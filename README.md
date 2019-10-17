@@ -1,22 +1,17 @@
 # ChatBot
 
-*Cell Phone Verification Chatbot. Implemented by Eduardo J. Castillo*
+*Cell Phone Verification ChatBot. Implemented by Eduardo J. Castillo*
 
-## In this Report
+## Description of the ChatBot
 
-To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-Lab6). You'll need to upload any code you change into your fork, as well as upload a video of a friend or classmate using your chatbot.
+**I created a HTML script and loaded it to business wubsite's server. Then, I linked the site to my business page on Instagram.**
 
-## Make the ChatBot your own
+**The purpose of the Bot is to interactively verify that customers are providing a mobile number that is correct and able to send and receive text messages. This could be an actual solution to delivery issues where customers provide contact mobile numbers -for coordination of last-mile deliveries- that are invalid or cannot send and receive text messages.**
 
-**Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
+## ChatBot Demo
 
-## Record someone trying out your ChatBot
+**Below is one of my IDD fellows trying the bot on through the Instagram App**
 
-**Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
+[Cell Phone Verification Chatbot - YouTube](https://www.youtube.com/watch?v=s8M7ZvCBwpI)
 
-
-[Cell Phone Verification Chatbot](Lab6_merged_Trim_Final.mp4)
-<video src="Lab6_merged_Trim_Final.mp4" width="320" height="200" controls preload></video>
-
----
-Starter code by [David Goedicke](mailto:da.goedicke@gmail.com), closely based on work by [Nikolas Martelaro](mailto:nmartelaro@gmail.com) and [Captain Anonymous](https://codepen.io/anon/pen/PEVYXz), who forked original work by [Ian Tairea](https://codepen.io/mrtairea/pen/yJapwv).
+[Cell Phone Verification Chatbot - GitHub](Lab6_merged_Trim_Final.mp4)
